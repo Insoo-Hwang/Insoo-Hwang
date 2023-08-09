@@ -5,7 +5,7 @@
 ![INSOO's GitHub stats](https://github-readme-stats.vercel.app/api?username=Insoo-Hwang&show_icons=true&theme=dark)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iaminsoo)](https://solved.ac/iaminsoo/)
 
-# Can do 👌
+# Can do👌
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
