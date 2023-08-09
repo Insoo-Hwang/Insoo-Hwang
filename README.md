@@ -13,6 +13,7 @@ https://github.com/Insoo-Hwang/BOJ
 # Can do👌
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Insoo-Hwang)](https://github.com/Insoo-Hwang/github-readme-stats)
 ### Platforms & Languages
+![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=OpenJDK&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white)
@@ -24,6 +25,10 @@ https://github.com/Insoo-Hwang/BOJ
 ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
+
+### H/W
+![Arduino](https://img.shields.io/badge/arduino-00878F.svg?&style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberrypi](https://img.shields.io/badge/raspberrypi-A22846.svg?&style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 ### OS
 ![Windows10](https://img.shields.io/badge/Windows%2010-0078D6.svg?&style=for-the-badge&logo=Windows%2010&logoColor=white)
