@@ -3,7 +3,11 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FInsoo-Hwang&count_bg=%237EC945&title_bg=%237CFB7A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![INSOO's GitHub stats](https://github-readme-stats.vercel.app/api?username=Insoo-Hwang&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Insoo-Hwang)](https://github.com/Insoo-Hwang/github-readme-stats)
+
+# PS 🖥️
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iaminsoo)](https://solved.ac/iaminsoo/)
+<img src="http://mazandi.herokuapp.com/api?handle=iaminsoo&theme=warm"/>
 
 # Can do👌
 ### Platforms & Languages
@@ -21,3 +25,6 @@
 # Contact ME ✉️
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:iaminsoo@naver.com)](mailto:iaminsoo@naver.com)
 [![Instagram](http://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram&link=https://www.instagram.com/hermelion_/?hl=ko)](https://www.instagram.com/hermelion_/?hl=ko)
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=008000&height=200&section=footer)
