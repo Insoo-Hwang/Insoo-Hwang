@@ -34,7 +34,3 @@ https://github.com/Insoo-Hwang/BOJ
 ![Windows10](https://img.shields.io/badge/Windows%2010-0078D6.svg?&style=for-the-badge&logo=Windows%2010&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000.svg?&style=for-the-badge&logo=Apple&logoColor=white)
-
-# Contact ME ✉️
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:iaminsoo@naver.com)](mailto:iaminsoo@naver.com)
-[![Instagram](http://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram&link=https://www.instagram.com/hermelion_/?hl=ko)](https://www.instagram.com/hermelion_/?hl=ko)
