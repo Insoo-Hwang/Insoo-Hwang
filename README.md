@@ -52,13 +52,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
 
-
-## 🚩 [Algorithm](https://github.com/Insoo-Hwang/PS)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iaminsoo)](https://solved.ac/iaminsoo/)
-<img src="http://mazandi.herokuapp.com/api?handle=iaminsoo&theme=warm"/>
-
-서비스를 개발하며 맞이할 수 있는 다양한 문제를 유연하게 대처하고자 '매일' 알고리즘 문제를 한 개 이상 해결하려고 노력하고 있습니다.
-
 ## 🏹 Skill
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Insoo-Hwang)](https://github.com/Insoo-Hwang/github-readme-stats)
 
@@ -74,6 +67,12 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white)
+
+## 🚩 [Algorithm](https://github.com/Insoo-Hwang/PS)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iaminsoo)](https://solved.ac/iaminsoo/)
+<img src="http://mazandi.herokuapp.com/api?handle=iaminsoo&theme=warm"/>
+
+서비스를 개발하며 맞이할 수 있는 다양한 문제를 유연하게 대처하고자 '매일' 알고리즘 문제를 한 개 이상 해결하려고 노력하고 있습니다.
 
 ## 🏫 Education
 * 2017.03-2023.08 한성대학교 IT융합공학부/컴퓨터공학부
