@@ -72,12 +72,12 @@
 서비스를 개발하며 맞이할 수 있는 다양한 문제를 유연하게 대처하고자 '매일' 알고리즘 문제를 한 개 이상 해결하려고 노력하고 있습니다.
 
 ## 🏫 Education
-* 2017.03 ~ 2023.08 한성대학교 IT융합공학부/컴퓨터공학부
-  - 2020.03 ~ 2021.12 사진 동아리 P.I.G
-  - 2023.08.18 성적 최우수상 수상
+* **2017.03 ~ 2023.08** 한성대학교 IT융합공학부/컴퓨터공학부
+  - **2020.03 ~ 2021.12** 사진 동아리 P.I.G
+  - **2023.08.18** 성적 최우수상 수상
 
 ## 📜 Certificate
-* 2022.06.17 정보처리기사(한국산업인력공단)
+* **2022.06.17** 정보처리기사(한국산업인력공단)
 
 ## 📧 Contact ME
 <a href="mailto:iaminsoo@naver.com"><img src="https://img.shields.io/badge/Naver%20mail-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:iaminsoo@naver.com"/>
