@@ -12,6 +12,8 @@
 ### [Insure Connect](https://github.com/Insoo-Hwang/InsureConnect)
 보험 설계사와 보험 가입자를 연결해주는 웹 앱 서비스
 
+[고민해 본 부분](https://github.com/Insoo-Hwang/InsureConnect?tab=readme-ov-file#%EF%B8%8F-%EB%AC%B8%EC%A0%9C-%EB%B0%9C%EC%83%9D-%EB%B0%8F-%ED%95%B4%EA%B2%B0)
+
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=OpenJDK&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75.svg?&style=for-the-badge&logo=Apache%20Tomcat&logoColor=white)
@@ -24,6 +26,8 @@
 ### [스마트 진열대](https://github.com/Insoo-Hwang/IoTCapstone)
 안드로이드 앱을 활용하여 무인 매장 진열대를 관리하고 진열대를 통해 고객에게 상품 추천을 해주는 IoT 플랫폼 서비스
 
+[고민해 본 부분](https://github.com/Insoo-Hwang/IoTCapstone?tab=readme-ov-file#%EC%83%81%ED%92%88-%EC%B6%94%EC%B2%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white)
@@ -32,6 +36,8 @@
 
 ### [우리 지금 만나](https://github.com/Insoo-Hwang/WooR2)
 친구와의 약속 일정을 계획 및 공유해주는 안드로이드 앱 서비스
+
+고민 해 본 부분 : QR과 문자열을 활용한 공유 기능
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white)
