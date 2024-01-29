@@ -71,6 +71,9 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white)
 
+### 📖 Now Studying
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white)
+
 ## 🚩 [Algorithm](https://github.com/Insoo-Hwang/PS)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iaminsoo)](https://solved.ac/iaminsoo/)
 <img src="http://mazandi.herokuapp.com/api?handle=iaminsoo&theme=warm"/>
