@@ -78,7 +78,7 @@
 서비스를 개발하며 맞이할 수 있는 다양한 문제를 유연하게 대처하고자 '매일' 알고리즘 문제를 한 개 이상 해결하려고 노력하고 있습니다.
 
 * [알고리즘 문제 해결](https://github.com/Insoo-Hwang/PS)
-* [새로 배운 알고리즘 정리](https://github.com/Insoo-Hwang/algorithm/edit/main/README.md)
+* [새로 배운 알고리즘 정리](https://github.com/Insoo-Hwang/algorithm)
 
 ## 🏫 Education
 * **2017.03 ~ 2023.08** 한성대학교 IT융합공학부/컴퓨터공학부
